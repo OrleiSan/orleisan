@@ -30,6 +30,3 @@
 
 Me especializando em cloud computing em especial AWS
 
-<div>
-  ![snake gif](https://github.com/orleisan/orleisan/blob/output/github-contribution-grid-snake.svg)
-</div>
