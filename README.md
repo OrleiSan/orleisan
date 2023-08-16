@@ -30,5 +30,3 @@
 
 Tecnologias que eu uso no meu dia
 
-![Snake animation](https://github.com/orleisan/orleisan/blob/output/github-contribution-grid-snake.svg)
-
