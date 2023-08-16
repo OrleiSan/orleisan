@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlei/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511984159612)
 
-![Orlei San's GitHub stats](https://github-readme-stats.vercel.app/api?username=orleisan&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orleisan&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orleisan&hide_progress=true)
 
 ## Tecnologias que eu uso no meu dia
 
