@@ -9,8 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orleisan&hide_progress=true)
 
-##Me especializando em cloud computing em especial AWS
-
+## Me especializando em cloud computing em especial AWS
 
 <div stile="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -29,7 +28,7 @@
 
 </div></br>
 
- Tecnologias que eu uso no meu dia
+Tecnologias que eu uso no meu dia
 
 ![Snake animation](https://github.com/orleisan/orleisan/blob/output/github-contribution-grid-snake.svg)
 
