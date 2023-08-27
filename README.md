@@ -40,4 +40,6 @@ web e me preparando para o exame de AWS cloud practitioner.
 
 ![Snake animation](https://github.com/mqjogos/mqjogos/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://github.com/mqjogos/mqjogos/blob/output/github-contribution-grid-snake.svg)
+
 
