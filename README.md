@@ -38,7 +38,7 @@ Formado em Engenharia Civil pela <a href="https://www.uninove.br/">Universidade 
 pois estou me especializando em Cloud Computing e desenvolvimento
 web e me preparando para o exame de AWS cloud practitioner.
 
-![Snake animation](https://github.com/orleisan/orleisan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/orleisan/orleisan/blob/main.yml/github-contribution-grid-snake.svg)
 
 ![Snake animation](https://github.com/mqjogos/mqjogos/blob/output/github-contribution-grid-snake.svg)
 
