@@ -34,7 +34,7 @@
 
 </div></br>
 
-Formado em Engenharia Civil pela Universidade Nove de Julho passo por uma transição de carreira, 
-pois estou me especializando em Cloud Computing e desenvolvimento 
+Formado em Engenharia Civil pela <a href="https://www.uninove.br/">Universidade Nove de Julho<a/> passo por uma transição de carreira, 
+pois estou me especializando em Cloud Computing e desenvolvimento
 web e me preparando para o exame de AWS cloud practitioner.
 
