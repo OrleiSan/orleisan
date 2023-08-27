@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1120508285846573116/1120516902268174337)
+
 ## Olá! Eu sou o Orlei Santos 😎
 
 
@@ -28,5 +30,7 @@
 
 </div></br>
 
-Tecnologias que eu uso no meu dia a dia!
+Formado em Engenharia Civil pela Universidade Nove de Julho passo por uma transição de carreira, 
+pois estou me especializando em Cloud Computing e desenvolvimento 
+web e me preparando para o exame de AWS cloud practitioner.
 
