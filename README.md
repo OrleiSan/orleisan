@@ -1,10 +1,10 @@
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Imagem_de_fundo" height="270" width="1080" src="https://github.com/OrleiSan/orleisan/blob/main/imagens%20fundo/linkedin%20capa.jpeg?raw=true">
 
 </div>
 
-## Olá! Eu sou o Orlei Santos 😎
+## Olá! Eu sou o Orlei Santos sejam muito bem vindos ao meu GitHub 😎
 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1120508285846573116/1120516902268174337)
