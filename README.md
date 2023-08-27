@@ -1,6 +1,6 @@
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Imagem_de_fundo" height="270" width="1080" src="https://github.com/OrleiSan/orleisan/blob/main/imagens%20fundo/linkedin%20capa.jpeg?raw=true">
+<img align="center" alt="Imagem_de_fundo" height="200" width="1080" src="https://github.com/OrleiSan/orleisan/blob/main/imagens%20fundo/linkedin%20capa.jpeg?raw=true">
 
 </div>
 
