@@ -4,7 +4,7 @@
 
 </div>
 
-## Olá! Eu sou o Orlei Santos sejam muito bem vindos ao meu GitHub 😎
+## Olá! Eu sou o Orlei Santos sejam muito bem vindos ao meu [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OrleiSan) 😎
 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1120508285846573116/1120516902268174337)
@@ -12,6 +12,7 @@
 [![Twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OrleiSan)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlei/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511984159612)
+
 
 <div align="center">
 <div style="display: inline_block"><br>
@@ -39,11 +40,12 @@
 
 </div></br>
 
+
 ### Certificações
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Badge" height="200" width="300" src="">
+<img align="center" alt="Badge" height="200" width="200" src="https://github.com/OrleiSan/orleisan/blob/main/imagens%20fundo/aws-cloud-quest-cloud-practitioner.png?raw=true">
   
 </div>
 
