@@ -13,7 +13,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlei/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511984159612)
 
-<img align="" alt="Imagem_de_fundo" height="200" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<div align="center">
+<div style="display: inline_block"><br>
+  
+<img align="left" alt="Imagem_de_fundo" height="200" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 
 ### Me especializando em AWS cloud computing.
@@ -22,6 +25,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+</div>
 
 <div style="display: inline_block"><br>
 
@@ -35,10 +39,20 @@
 
 </div></br>
 
+### Certificações
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Badge" height="200" width="300" src="">
+  
+</div>
+
+
+<div align="left">
 Formado em Engenharia Civil pela <a href="https://www.uninove.br/">Universidade Nove de Julho<a/> passo por uma transição de carreira, 
 pois estou me especializando em Cloud Computing e desenvolvimento
 web e me preparando para o exame de AWS cloud practitioner.
-
+</div>
 
 ![Snake animation](https://github.com/mqjogos/mqjogos/blob/output/github-contribution-grid-snake.svg)
 
