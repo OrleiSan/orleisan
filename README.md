@@ -4,7 +4,7 @@
 
 </div>
 
-## Olá! Eu sou o Orlei Santos sejam muito bem vindos ao meu GitHub!!!
+## Olá! Eu sou o Orlei Santos sejam muito bem vindos ao meu GitHub!!! <img align="right" alt="soundcloud" height="60" width="60" src="https://img.icons8.com/color/96/000000/soundcloud.png">
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1120508285846573116/1120516902268174337)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/orleisan/)
@@ -30,19 +30,18 @@
 <div style="display: inline_block"><br>
 
   
-  <img align="center" alt="android" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Docker" height="60" width="60" src="https://img.icons8.com/color/96/000000/docker.png">
+  <img align="center" alt="kubernetes" height="40" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="Golang" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="kubernetes" height="40" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
-
+  <img align="center" alt="battle" height="40" width="40" src="https://img.icons8.com/color/96/000000/battle-net.png">
+  
 </div></br>
 
 
@@ -61,13 +60,11 @@
 
 
 <div align="left">
-Formado em Engenharia Civil pela <a href="https://www.uninove.br/">Universidade Nove de Julho<a/> passo por uma transição de carreira, 
-sou certificado pela AWS Cloud Practitioner e estou me especializando em Machine Learning.
+Formado em Engenharia Civil pela <a href="https://www.uninove.br/">Universidade Nove de Julho<a/> passo por uma transição de carreira. 
+Sou certificado pela AWS Cloud Practitioner e estou me especializando em Machine Learning.
 
 </div>
 
 ![Snake animation](https://github.com/mqjogos/mqjogos/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Olá, Eu sou o Orlei 👋 Analista Cloud 🚀">
-</p>
+
