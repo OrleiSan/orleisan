@@ -4,7 +4,7 @@
 
 </div>
 
-## Olá! Eu sou o Orlei Santos sejam muito bem vindos ao meu [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OrleiSan) 😎
+## Olá! Eu sou o Orlei Santos sejam muito bem vindos ao meu GitHub [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OrleiSan) 😎
 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1120508285846573116/1120516902268174337)
@@ -14,22 +14,20 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511984159612)
 
 
-<div align="center">
-<div style="display: inline_block"><br>
-  
-<img align="left" alt="Imagem_de_fundo" height="200" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<div align="center"><br> 
+<div style="display: inline_block">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+</div><br/>
 
+### Me especializando em Cloud Computing e Machine Learning.
 
-### Me especializando em AWS cloud computing.
-
-<div stile="display: inline_block"><br/>
+<div stile="display: inline_block"><br>
 <img align="center" alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
 <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-<img align="center" alt="Linux" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</div>
+</div></br>
 
 <div style="display: inline_block"><br>
 
@@ -38,25 +36,28 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- 
-</div>
 
 </div></br>
 
 
-### Certificações
+</div></br>
 
 <div style="display: inline_block"><br>
+<div align="center": style="display: inline_block">
+
+  <h1>Certificações</h1>
+
 
 <img align="center" alt="Badge" height="200" width="200" src="https://github.com/OrleiSan/orleisan/blob/main/imagens%20fundo/aws-cloud-quest-cloud-practitioner.png?raw=true">
-  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>  
 </div>
+</div></br>
 
 
 <div align="left">
 Formado em Engenharia Civil pela <a href="https://www.uninove.br/">Universidade Nove de Julho<a/> passo por uma transição de carreira, 
-pois estou me especializando em Cloud Computing e desenvolvimento
-web e me preparando para o exame de AWS cloud practitioner.
+sou certificado pela AWS Cloud Practitioner e estou me especializando em Machine Learning.
+
 </div>
 
 ![Snake animation](https://github.com/mqjogos/mqjogos/blob/output/github-contribution-grid-snake.svg)
