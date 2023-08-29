@@ -35,7 +35,7 @@
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Docker" height="60" width="60" src="https://img.icons8.com/color/96/000000/docker.png">
+  <img align="center" alt="Docker" height="60" width="50" src="https://img.icons8.com/color/96/000000/docker.png">
   <img align="center" alt="kubernetes" height="40" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="Golang" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
