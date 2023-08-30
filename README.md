@@ -52,7 +52,7 @@
 <a> <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'> </a>
   <h1>Certificações</h1> 
 
-<img align="center" alt="Badge" height="200" width="200" href="https://www.credly.com/badges/b53c79f4-b396-4455-a92d-45ab4cb8911c/public_url">
+<a href="https://www.credly.com/badges/b53c79f4-b396-4455-a92d-45ab4cb8911c/public_url"><img align="center" alt="Badge" height="200" width="200" src="https://github.com/OrleiSan/orleisan/blob/main/imagens%20fundo/aws-certified-cloud-practitioner.png?raw=true"><a/>
 <img align="center" alt="Badge" height="200" width="200" src="https://github.com/OrleiSan/orleisan/blob/main/imagens%20fundo/aws-cloud-quest-cloud-practitioner.png?raw=true">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>  
 </div>
