@@ -59,12 +59,4 @@
 </div></br>
 
 
-<div align="left">
-Formado em Engenharia Civil pela <a href="https://www.uninove.br/">Universidade Nove de Julho<a/> passo por uma transição de carreira. 
-Sou certificado pela AWS Cloud Practitioner e estou me especializando em Machine Learning.
-
-</div>
-
-![Snake animation](https://github.com/mqjogos/mqjogos/blob/output/github-contribution-grid-snake.svg)
-
 
