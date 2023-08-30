@@ -53,7 +53,7 @@
   <h1>Certificações</h1> 
 
 <a href="https://www.credly.com/badges/b53c79f4-b396-4455-a92d-45ab4cb8911c/public_url"><img align="center" alt="Badge" height="200" width="200" src="https://github.com/OrleiSan/orleisan/blob/main/imagens%20fundo/aws-certified-cloud-practitioner.png?raw=true"><a/>
-<img align="center" alt="Badge" height="200" width="200" src="https://github.com/OrleiSan/orleisan/blob/main/imagens%20fundo/aws-cloud-quest-cloud-practitioner.png?raw=true">
+<a href="https://www.credly.com/badges/9c7ce453-a29f-48ad-8acf-2ec88d63dc6c/public_url"><img align="center" alt="Badge" height="200" width="200" src="https://github.com/OrleiSan/orleisan/blob/main/imagens%20fundo/aws-cloud-quest-cloud-practitioner.png?raw=true"><a/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>  
 </div>
 </div></br>
